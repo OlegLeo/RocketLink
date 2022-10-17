@@ -11,17 +11,20 @@ I thought it would be much easier to start by creating a kind of "WE TRANSFER", 
 =-=-=-=-=-=-=-=-=-= Tools Used=-=-=-=-=-=-=-=-=-=
 
 Java Script
+
 PHP
+
 HTML and CSS (bootstrap)
-Other
 
 XAMPP
+
 Windows Task Scheduler
+
 =-=-=-=-=-=-=-=-=-= Programming Logic =-=-=-=-=-=-=-=-=-=
 
 For the server creation I used XAMPP.
 
-____(To test how it works just download the "htdocs" folder and replace it with the old one which is inside the location of the files inside "XAMPP". Then just start "Apache" in XAMPP and open the web browser on "localhost".
+____(To test how it works just download the "htdocs" folder and replace it with the old one which is inside the location of the files inside "XAMPP". Then just start "Apache" in XAMPP and open the web browser on "localhost".___
 
 =-=-=-=-=-=-=-=-=-=   HOW DOES IT WORK: =-=-=-=-=-=-=-=-=-=
 
